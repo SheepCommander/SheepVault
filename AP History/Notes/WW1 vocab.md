@@ -1,4 +1,4 @@
-1. Unrestricted Submarine Warfare
+	1. Unrestricted Submarine Warfare
 
 Unrestricted submarine warfare refers to Germany’s policy of attacking all ships --- merchant or passenger --- with submarine torpedoes. German High Command believed that the unrestricted use of submarines on commerce ships would allow them to win the war against England, and these attacks were the most important factor in making the U.S. join world war one.
 
