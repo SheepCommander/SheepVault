@@ -1,0 +1,6 @@
+misspell
+restaurants
+committee
+persevered
+thorough
+occasions

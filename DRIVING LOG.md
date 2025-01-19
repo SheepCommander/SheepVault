@@ -1,5 +1,6 @@
 Overall count: 
-
+# Friday, Jan 18
+I drove for 70 minutes at night, at rush hour. It sucked.
 # Wednesday, Jan 8
 One hour driving with 405 instructor, 15 minutes home from internship
 # Thursday, Dec 19
