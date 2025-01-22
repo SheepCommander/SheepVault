@@ -22,3 +22,8 @@ $$\begin{align}
 \int_{c}^{u} f(t)dt&=F(u)\\
 
 \end{align}$$
+$$\begin{align}
+\int_{2}^x f(t)dt=A(x)-A(2) \\
+\frac{d}{dx}A(x)-A(2)=f(x) \\
+\int_{2}^u f(t)dt=
+\end{align}$$

@@ -8,7 +8,7 @@ $$\begin{align}
 \frac{d}{dx}\csc u&=-\csc u \cot u*u' \\
 \frac{d}{dx}ax^n&=n*ax^{n-1} \\
 \frac{d}{dx}a^x&=a^x\ln x \\
-\frac{d}{dx}\ln x&=\frac{1}{x} \\
+\frac{d}{dx}\ln u&=\frac{1}{u}*u' \\
 \frac{d}{dx}e^{mx}&=me^{mx} \\
 \frac{d}{dx}e^{-mx}&=-me^{mx} \\
 &=\text{im praying i dont need inverse trig}
