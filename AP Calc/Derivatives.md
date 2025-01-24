@@ -13,3 +13,8 @@ $$\begin{align}
 \frac{d}{dx}e^{-mx}&=-me^{mx} \\
 &=\text{im praying i dont need inverse trig}
 \end{align}$$
+
+$$\begin{align}
+\int _{c}^{x}\frac{1}{x}dx&=\ln|x| \\
+\frac{d}{dx}\ln x&=\frac{1}{x}
+\end{align}$$
