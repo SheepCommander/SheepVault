@@ -1,4 +1,7 @@
 Overall count: 
+# Monday, Jan 27
+I drove half an hour at night from the Music Center to Whole Foods and Best Buy, on the highway.
+It went well! I need to exaggerate my Stopping for the instructors and examiners.
 # Friday, Jan 18
 I drove for 70 minutes at night, at rush hour. It sucked.
 # Wednesday, Jan 8
