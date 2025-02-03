@@ -1,4 +1,6 @@
 Overall count: 
+# Wednesday, Jan 29
+I drove half an hour at night from the Internship place to home. I went on the freeway too, it was some of my smoothest driving as well!
 # Monday, Jan 27
 I drove half an hour at night from the Music Center to Whole Foods and Best Buy, on the highway.
 It went well! I need to exaggerate my Stopping for the instructors and examiners.
