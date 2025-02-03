@@ -97,3 +97,5 @@ ZUQJBJ3-TVTMC2B-RZH5QJ4-OI535AH-GUVWJFP-CV36O2J-5VGHGWJ-GYUBKAG
 Z3GDGXE-3DROE35-KWSDDEW-ZDWGAQX-CFUTNKT-HPHGWPY-5EW5HQM-YVTEJQD
 ```
 Syncthing: Actions / Advanced / Folders / folder / Max Conflicts: 0
+
+- [ ]  Printer https://ij.manual.canon/ij/webmanual/WebGS/WGS2/wgs_start.html?lng=en&type=setup&area=us&mdl=TR7020a&os=w
