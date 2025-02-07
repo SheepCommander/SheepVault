@@ -6,7 +6,6 @@ $$\begin{align}
 \frac{d}{dx}\cot u&=-\csc^2u*u' \\
 \frac{d}{dx}\sec u&=\sec u \tan u*u' \\
 \frac{d}{dx}\csc u&=-\csc u \cot u*u' \\
-&\text{praying i dont need inverse trig}
 \end{align}$$
 
 $$\begin{align}
