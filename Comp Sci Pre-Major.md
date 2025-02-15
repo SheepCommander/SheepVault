@@ -11,7 +11,7 @@ Art: Personal pathway: Last credit of art optional.
 	- [x] MATH& 151 Calculus I  - AP Calc AB
 ### Distribution Requirements - 45 Credits
 - [ ] Humanities (15 Credits)
-	- [ ] Select from at least two different disciplines (e.g., Art and Drama) in [Humanities](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2415). Maximum of 5 credits allowed in Performance/Skills courses. No more than 5 credits in a world language at the 100 level. Recommended: World Language if reequired for University admission or graduation.
+	- [ ] Select from at least two different disciplines (e.g., Art and Drama) in [Humanities](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2415). Maximum of 5 credits allowed in Performance/Skills courses. No more than 5 credits in a world language at the 100 level. Recommended: World Language if required for University admission or graduation.
 	- [ ] JP III
 	- [ ] JP IV
 	- [ ] JP V
