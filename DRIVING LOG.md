@@ -1,4 +1,16 @@
 Overall count: 
+# Wednesday, March 12th
+I drove half an hour home on the freeway
+# Thursday, March 6th
+I drove an hour on the freeway
+# Wednesday, March 5th
+# Tuesday, March 4th
+# Wednesday, Feb 26
+
+# Wednesday, Feb 12
+
+# Saturday, Feb 1
+I drove ten minutes in the afternoon to home.
 # Wednesday, Jan 29
 I drove half an hour at night from the Internship place to home. I went on the freeway too, it was some of my smoothest driving as well!
 # Monday, Jan 27
