@@ -1,4 +1,6 @@
 Overall count: 
+# Tuesday, April Fools
+I drove half an hour home from the music center in my mom's car.
 # Wednesday, March 12th
 I drove half an hour home on the freeway
 # Thursday, March 6th
