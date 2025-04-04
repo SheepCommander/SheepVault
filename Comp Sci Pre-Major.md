@@ -26,18 +26,18 @@ Art: Personal pathway: Last credit of art optional.
 	- [ ] ECON& 201 Micro Economics
 ## CS 10-13 credits
 - [x] CS& 141
-- [ ] CS 143
+- [x] CS 143
+- [ ] CS 145
 ### General Electives - Minimum 25 Credits
 > Comprised of other college-level courses or unrestricted courses. A maximum of 15 credits allowed for restricted/vocational courses, and a maximum of 3 credits allowed in Physical Education. Please see the lists of [Restricted Electives](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2419) and [Elective Courses (Non-restricted)](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2418). Recommended: [BIOL& 213](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18375), [CHEM 171](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18457)/[CHEM 181](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18460), [CHEM 172](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18458)/[CHEM 182](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18461), [CHEM 173](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18459)/[CHEM 183](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18462), [MATH& 146](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19060), [MATH 207](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19065), [MATH 208](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19066), [MATH 211](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19067), [PHIL& 120](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19353), [PHYS& 116](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19402). **Strongly recommended: [CS& 141](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18542), [CS 143](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=18543), [MATH& 163](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19064), and [PHYS& 223](https://catalog.shoreline.edu/preview_course_nopop.php?catoid=9&coid=19405).**
 
 
 PE: 3
-AP CS A: 5
 Film: 
 
 ---
 
 Physics 1 	3, 4 or 5 	Elective (5 credits)
-Only 25 credits of AP
+Only 25 credits of AP: (Lang, USH, USH, AB, AB)
 
 as soon as I get my scores **Tiff Meier**  206-546-4559 [tmeier@shoreline.edu](mailto:tmeier@shoreline.edu) Rm 5233

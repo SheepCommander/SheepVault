@@ -1,4 +1,6 @@
 Overall count: 
+# Wednesday, April 2nd
+I drove half an hour to Soddam Chicken then home with my dad. He recommended I not play music.
 # Tuesday, April Fools
 I drove half an hour home from the music center in my mom's car.
 # Wednesday, March 12th
@@ -6,11 +8,13 @@ I drove half an hour home on the freeway
 # Thursday, March 6th
 I drove an hour on the freeway
 # Wednesday, March 5th
+I drove from the internship home.
 # Tuesday, March 4th
+I practiced driving a bit with my dad.
 # Wednesday, Feb 26
-
+I drove home from the IT internship.
 # Wednesday, Feb 12
-
+I drove to the internship from school and then home afterwards.
 # Saturday, Feb 1
 I drove ten minutes in the afternoon to home.
 # Wednesday, Jan 29

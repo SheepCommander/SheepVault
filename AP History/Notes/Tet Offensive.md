@@ -1,0 +1,1 @@
+Coordinated Vietcong attacks on dozens of S.Vietnam cities. Showed the public that the Vietcong were not losing like they thought, and that leadership couldn't anticipate the new year's attack.
