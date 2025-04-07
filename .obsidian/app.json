@@ -2,5 +2,6 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "trashOption": "local"
+  "trashOption": "local",
+  "attachmentFolderPath": "_assets_"
 }

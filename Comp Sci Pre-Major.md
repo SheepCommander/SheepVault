@@ -33,7 +33,8 @@ Art: Personal pathway: Last credit of art optional.
 
 
 PE: 3
-Film: 
+Film 256 - Video Production I: 5
+Film 257 - Video Production II: 5
 
 ---
 
