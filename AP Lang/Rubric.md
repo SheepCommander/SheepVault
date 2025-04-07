@@ -1,19 +1,4 @@
-Thesis: 1
 
-Evidence: 4
-
-Sophistication: 1
-
-
-```
-Thesis (claim 1 & 2)
-Claim 1
-- Evidence 1, commentary 1
-- Evidence 2, commentary 2
-Claim 2
-- Evidence 1, commentary 1
-- Evidence 2, commentary 2
-```
 ###### Situate the issue in a broader context
 - For **rhetorical analysis,** we discuss the historical significance of the text, especially when reading speeches. Depending on the passage, we’ll discuss the extent to which the message or argument still applies today or the extent to which the changes the speaker desired have taken effect.
 

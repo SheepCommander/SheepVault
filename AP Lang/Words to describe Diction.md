@@ -1,0 +1,82 @@
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Words to describe<br>DICTION<br><br>abstract<br>learned<br>literal<br>academic<br>loaded<br>ambiguous<br>lyrical<br>biting<br>melodious<br>monosyllabic<br>brusque - Abrupt / curt<br>nostalgic<br>Cacophonous<br>obscene<br>casual<br>obscure<br>caustic<br>offensive<br>concrete<br>ordinary<br>colloquial<br>ornate<br>colorful<br>passionate<br>common<br>patriotic<br>connotative<br>pedantic<br>cultured<br>picturesque<br>crisp | plain<br>curt<br>poetic<br>denotative<br>political<br>detached<br>polysyllabic<br>divisive<br>precise<br>emotional<br>pretentious<br>esoteric<br>provincial<br>euphemistic<br>romantic<br>euphonious<br>scholarly<br>everyday<br>sentimental<br>exact<br>shocking<br>fanciful<br>sincere<br>flowery<br>slang<br>figurative<br>subdued<br>folksy<br>symbolic<br>formal<br>tame<br>grandiose<br>technical<br>idiomatic<br>trite | inflammatory<br>unifying<br>inflated<br>uppity<br>informal<br>vague<br>insincere<br>vulgar<br>jargon |
+
+- abstract
+- learned
+- literal
+- academic
+- loaded
+- ambiguous
+- lyrical
+- biting
+- melodious
+- monosyllabic
+- brusque - Abrupt and curt
+- nostalgic
+- Cacophonous
+- obscene
+- casual
+- obscure
+- caustic
+- offensive
+- concrete
+- ordinary
+- colloquial
+- ornate
+- colorful
+- passionate
+- common
+- patriotic
+- connotative
+- pedantic
+- cultured
+- picturesque
+- crisp
+
+- plain
+- curt
+- poetic
+- denotative
+- political
+- detached
+- polysyllabic
+- divisive
+- precise
+- emotional
+- pretentious
+- esoteric
+- provincial
+- euphemistic
+- romantic
+- euphonious
+- scholarly
+- everyday
+- sentimental
+- exact
+- shocking
+- fanciful
+- sincere
+- flowery
+- slang
+- figurative
+- subdued
+- folksy
+- symbolic
+- formal
+- tame
+- grandiose
+- technical
+- idiomatic
+- trite
+
+- inflammatory
+- unifying
+- inflated
+- uppity
+- informal
+- vague
+- insincere
+- vulgar
+- jargon

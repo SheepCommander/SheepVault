@@ -35,3 +35,25 @@
 2. What does Cisneros mean by a *bald* light bulb? What does this reveal about Abuelito's room?
 
 **Apply: Take Cisneros's phrase, *under a ceiling dusty with flies,* and write a new phrase by substituting the word *dusty* with a different aedjective. Explain to a partner the impact of your new adjective on the sentence.**
+- 
+---
+> [!Quote]- "Indeed, it strikes me that to lay this obscenity off to some mitigating factor, no matter how worthy, is to make the crime smaller than it is and offer rationalizations that insult the sufferers. <Br><Br>Meaning that I don't care what video games these wretches played. Don't give a damn if they were picked on by other kids. <Br><Br> It makes no difference.<Br><Br>This was a special category of evil."
+> --Leonard Pitts, Jr., "Why? Maybe It's a Blessing Not to Know Why Those Two Boys Did It"
+
+1. What is Pitts' attitude toward the perpetrators of the crimes in Littleton, CO? What words reveal his attitude?
+
+2. In the second paragraph of this passage, Pitts uses two incomplete sentences. How does his syntax contribute to the tone?
+
+**Apply: Think of an issue for which you have a decided opinion. Write a paragraph defending this opinion. Create a tone of righteous indignation. Use at least one incomplete sentence to help create your tone.**
+
+---
+> [!Quote]- "Art is the **antidote** that can call us back from the edge of numbness, restoring the ability to feel for another."
+> --Barbara Kingsolver, High Tide in Tucson
+
+1. By using the word *antidote*, what does the author imply about the inability to feel for another?
+
+2. If we changed the word *antidote* to *gift*, what effect would it have on the meaning of the sentence?
+A gift is not a basic necessity/natural, but something that improves our life.
+
+**Apply: Brainstorm with the class and develop a list of medical terms; then write a sentence using a medical term to characterize art. Explain to the class the effect this term has on the meaning of the sentence.**
+- Art is not a cheap anesthetic to be prescribed, art is a vaccine against indifference.
