@@ -30,7 +30,7 @@ He's also running a campaign against communism and buddhism (the majority religi
 
 JFK wants Diem out, and the ARVN kill him.
 
-**Madox and Turner Joy** 1964 Golf of Tonkin
+**Madox and Turner Joy** 1964 Gulf of Tonkin
 First attack - North Vietnamese fires torpedo ships - no damage
 Second attack - no eyewitness evidence or damage, still declared.
 

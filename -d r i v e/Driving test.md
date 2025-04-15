@@ -2,7 +2,7 @@ It is illegal to drive at any speed greater than the posted speed limit.
 
 - **City and town streets** 25mph
 - **State highways** 60mph or 75mph
-- **Country roads** 55mph
+- **Country roads** 50mph
 - **School zone** 20mph
 
 - Six traffic violations during a 12-month period:

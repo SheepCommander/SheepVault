@@ -57,3 +57,21 @@ A gift is not a basic necessity/natural, but something that improves our life.
 
 **Apply: Brainstorm with the class and develop a list of medical terms; then write a sentence using a medical term to characterize art. Explain to the class the effect this term has on the meaning of the sentence.**
 - Art is not a cheap anesthetic to be prescribed, art is a vaccine against indifference.
+---
+> [!Quote]- "Certainly we must face this fact: if the American press, as a mass medium, has formed the minds of America, the mass has also formed the medium. There is action, reaction, and interaction going on ceaselessly between the newspaper-buying public and the editors. What is wrong with the American press is what is in part wrong with American society.<br><br>Is this, then, to exonerate the American press for its failures to give the American people more tasteful and more illuminating reading matter? Can the American press seek to be excused from responsibility for public lack of information as TV and radio often do, on the grounds that, after all, 'we have to give the people what they want or we will go out of business'?"
+> -- Clare Boothe Luce, "What's Wrong with the American Press?"
+
+1. What is Luce's attitude about the American press?
+2. How does the use of rhetorical questions help express this attitude? In other words, how do the rhetorical questions set the tone?
+**Apply: Write an answer to the rhetorical questions in this passage. Adopt a tone of *sneering derision* as you express the attitude that the American press can indeed by excused from responsibility in order to make more money. Use at least one rhetorical question in your reply.**
+- Why, of course, it is wholly unreasonable to expect
+---
+> [!Quote]- "There is another curious class of cases in which close external resemblance does not depend on adaptation to similar habitats of life, but has been gained for the sake of protection. I allude to the wonderful manner in which certain butterflies imitate... other and quite distinct species... The mockers and mocked always inhabit the same region; we never find an imitator living remote from the form which it imitates. The mockers are almost invariably rare insects; the mocked in almost every case abound in swarms."
+> -- Charles Darwin, "Analogical Resemblances," The Origin of Species
+
+1. Why does Darwin use a semicolon rather than a period in the last two sentences of this passage?
+2. What effect does the sentence structure have on the meaning of the passage?
+
+**Apply: Write a sentence with two independent clauses describing two schools in your area. Join the two clauses with a semicolon. The two clauses should emphasize the differences between the two schools. Remember not to use a conjunction to join the two clauses.**
+- Shorewood may have to change their mascot which was deemed offensive; Shorecrest was allowed to keep theirs.
+- Cascade K-8 has a strong sense of community; Shoreline is most impersonal.
