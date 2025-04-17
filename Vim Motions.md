@@ -7,9 +7,6 @@ Ctrl + ww - moves to the next file that's open
 ctrl + 0 - puts you in normal mode for 1 command
 :%s/{text to replace}/{new text}/g - find
 
-gg - takes you to top
-shift + g - takes you to end
-
 Select lines, press `>` to indent!
 `<C-n>` :  show suggestions (sorta, but not quite)
  `C-V` Visual Block Mode - select lines, then press Shift I to insert, then press Esc and it will insert to all lines.
@@ -45,6 +42,10 @@ letter-registers i I a A c cc C s S o O { } ( ) [{ ]} [( ]) . text-objects
 H M L nu | / ? ` ' m :marks :delmarks u CTRL-R buffers (:b :ls) files (:w :e)
 + - macros (q @) rnu
 ```
+
+gg - takes you to top
+shift + g - takes you to end
+
 ---
 [^1]: https://www.youtube.com/watch?v=5JGVtttuDQA&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R&index=7
 [^2]: https://www.youtube.com/watch?v=h4ZQfr-q3EA - Mostly Summarized, but there's still some config stuff i should do
