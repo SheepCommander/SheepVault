@@ -7,7 +7,7 @@ $$\begin{align}
 \frac{d}{dx}\sec u&=\sec u \tan u*u' \\
 \frac{d}{dx}\csc u&=-\csc u \cot u*u' \\
 \frac{d}{dx}\sin^{-1}u&=\frac{u'}{\sqrt{ 1-u^2 }} \\
-\frac{d}{dx}\cos^{-1}u&=-\frac{u'}{\sqrt{ 1-x^2 }} \\
+\frac{d}{dx}\cos^{-1}u&=-\frac{u'}{\sqrt{ 1-u^2 }} \\
 \frac{d}{dx}\tan^{-1}u&=\frac{u'}{ u^2+1 } \\
 \frac{d}{dx}\cot^{-1}u&=-\frac{u'}{ 1-u^2 } \\
 \frac{d}{dx}\sec^{-1}u&=\frac{u'}{|u|\sqrt{ u^2-1 }} \\

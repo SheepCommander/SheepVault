@@ -24,13 +24,15 @@ ZZ - does it quit?
 
 ---
 f and t - finds & includes a character in the current line (F jumps back)
-dfs - delete everything up until the letter s in the line.
+**dfs - delete everything up until the letter s in the line.**
+**dt" - delete everything up to (not including) the letter " in the line.**
 yiw - yank word under the cursor
-diw - del word under the cursor
+**diw - del word under the cursor**
 daw - del word under the cursor and the space next to it
 yy - yank a line
 <> - shift text left / right
 +y - copy thinks to the clipboard on Mac
+**diW- delete the entire thing** 
 
 init.vim:
 set number

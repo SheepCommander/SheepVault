@@ -9,3 +9,7 @@ $$\begin{align}
 Q2 tan (-)
 Q3 tan (+)
 Q4 tan (-)
+
+
+3:4:5 right triangle!
+5:12:13
