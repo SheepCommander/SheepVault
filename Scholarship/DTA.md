@@ -14,6 +14,7 @@ Safety:
 - WSU
 - Eastern
 - Central
+- Gonzaga
 Target:
 - UW Seattle
 - WPI

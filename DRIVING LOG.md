@@ -1,4 +1,10 @@
 Overall count: 
+# Wednesday, April 16th
+Drove home from school after the calc test, 20 minutes
+# Tuesday, April 15th
+Drove to the internship from school, 20 minutes, then home, 30 minutes
+# Wednesday, April 9th
+Drove home from the internship
 # Wednesday, April 2nd
 I drove half an hour to Soddam Chicken then home with my dad. He recommended I not play music.
 # Tuesday, April Fools
