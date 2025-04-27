@@ -42,3 +42,5 @@ Physics 1 	3, 4 or 5 	Elective (5 credits)
 Only 25 credits of AP: (Lang, USH, USH, AB, AB)
 
 as soon as I get my scores **Tiff Meier**  206-546-4559 [tmeier@shoreline.edu](mailto:tmeier@shoreline.edu) Rm 5233
+
+[What 100 College Essays Taught Me About Who Gets Rejected](https://youtu.be/i38hpvPp62I)
