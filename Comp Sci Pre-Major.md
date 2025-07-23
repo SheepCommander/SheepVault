@@ -21,8 +21,8 @@ Art: Personal pathway: Last credit of art optional.
 	- [ ] PHYS& 221 Engineering Physics I w/Lab: Mechanics
 	- [ ] PHYS& 222 Engineering Physics II w/Lab: Electromagnetism 
 - [ ] Social Sciences (15 Credits) # not history class
-	- [x] HIST& 136 U.S. History 1: To 1877  - APUSH 5
-	- [x] HIST& 137 U.S. History 2: From 1877  -  APUSH 5
+	- [x] HIST& 136 U.S. History 1: To 1877  - APUSH 4
+	- [ ] ???
 	- [ ] ECON& 201 Micro Economics
 ## CS 10-13 credits
 - [x] CS& 141
