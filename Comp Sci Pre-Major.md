@@ -34,8 +34,8 @@ Art: Personal pathway: Last credit of art optional.
 
 PE: 3
 Physics 1 	3, 4 or 5 	Elective (5 credits)
-- [ ] Calculus III
-- [ ] Linear Algebra
+- [ ] Calculus III - Fall/Winter
+- [ ] Linear Algebra - Winter
 - [ ] Film 257 - Video Production II: 5  - **To be taken at highschoool, 2025-26**
 
 ---
