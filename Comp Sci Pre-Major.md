@@ -13,16 +13,16 @@ Art: Personal pathway: Last credit of art optional.
 - [ ] Humanities (15 Credits)
 	- [ ] Select from at least two different disciplines (e.g., Art and Drama) in [Humanities](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2415). Maximum of 5 credits allowed in Performance/Skills courses. No more than 5 credits in a world language at the 100 level. Recommended: World Language if required for University admission or graduation.
 	- [x] Film 256 - Video Production I: 5
-	- [ ] Film 257 - Video Production II: 5  - **To be taken at highschoool, 2025-26**
-	- [ ] JP III/IV
+	- [ ] JP III (Spring) (Probably can't do IV unless I do it in Fall)
+ 	- [ ] a film appreciation / art history
 > Comp Sci Pre-Major: No more than 5 credits in a world language at the 100 level.
 - [ ] Natural Sciences (15 Credits)
 	- [x] MATH& 152 Calculus II  - AP Calc AB 5
-	- [ ] PHYS& 221 Engineering Physics I w/Lab: Mechanics
-	- [ ] PHYS& 222 Engineering Physics II w/Lab: Electromagnetism 
+	- [ ] PHYS& 221 Engineering Physics I w/Lab: Mechanics - Fall/Winter 
+	- [ ] PHYS& 222 Engineering Physics II w/Lab: Electromagnetism - Might want to do something else like OChem
 - [ ] Social Sciences (15 Credits) # not history class
 	- [x] HIST& 136 U.S. History 1: To 1877  - APUSH 4
-	- [ ] ???
+	- [ ] ??? (No required class at UW, maybe POL SCIENCE 202 for senior civics?)
 	- [ ] ECON& 201 Micro Economics
 ## CS 10-13 credits
 - [x] CS& 141
@@ -36,6 +36,7 @@ PE: 3
 Physics 1 	3, 4 or 5 	Elective (5 credits)
 - [ ] Calculus III
 - [ ] Linear Algebra
+- [ ] Film 257 - Video Production II: 5  - **To be taken at highschoool, 2025-26**
 
 ---
 
