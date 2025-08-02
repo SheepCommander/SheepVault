@@ -13,7 +13,7 @@ Art: Personal pathway: Last credit of art optional.
 - [ ] Humanities (15 Credits)
 	- [ ] Select from at least two different disciplines (e.g., Art and Drama) in [Humanities](https://catalog.shoreline.edu/preview_program.php?catoid=9&poid=2415). Maximum of 5 credits allowed in Performance/Skills courses. No more than 5 credits in a world language at the 100 level. Recommended: World Language if required for University admission or graduation.
 	- [x] Film 256 - Video Production I: 5
-	- [ ] JP III (Spring) (Probably can't do IV unless I do it in Fall)
+	- [ ] Japanese 123 - JP III (Spring) (Probably can't do IV unless I do it in Fall)
  	- [ ] a film appreciation / art history
 > Comp Sci Pre-Major: No more than 5 credits in a world language at the 100 level.
 - [ ] Natural Sciences (15 Credits)
